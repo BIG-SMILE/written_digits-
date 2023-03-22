@@ -12,7 +12,7 @@ numpy 1.17.3
 ## Input format:数据集输入样式：
 
 <p align="center">
-  <img src="./fig/data.png" width="400"/>
+  <img src="./fig/data.png" width="200"/>
 </p>
 
 
