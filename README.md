@@ -22,6 +22,7 @@ numpy 1.17.3
 
 ## Run the code:
 
-`python train.py `
-
+```
+python train.py
+```
 - To train/test your own data: modify the command with your file path and run.
